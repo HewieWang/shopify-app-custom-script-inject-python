@@ -6,8 +6,8 @@ import json
 
 app = Flask(__name__)
 
-API_KEY = "cad8562e309056451cfabd7ec0db475f"
-API_SECRET = "5b482566f1284d8e9fe8a5b4907dfd8d"
+API_KEY = "66666666"
+API_SECRET = "6666666666"
 REDIRECT_URI = "https://5ff1022c.r15.cpolar.top/auth/callback"
 SCOPES = "read_themes,write_themes"
 
